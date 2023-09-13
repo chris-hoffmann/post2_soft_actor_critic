@@ -1,0 +1,6 @@
+Experiments/HalfCheetah-v4__seed_1/events.out.tfevents.1684877829.LAPTOP-H9864UL1.3436.0 filter=lfs diff=lfs merge=lfs -text
+Experiments/HalfCheetah-v4__seed_2/events.out.tfevents.1684949961.LAPTOP-H9864UL1.12200.0 filter=lfs diff=lfs merge=lfs -text
+Experiments/HalfCheetah-v4__seed_3/events.out.tfevents.1684998319.LAPTOP-H9864UL1.2896.0 filter=lfs diff=lfs merge=lfs -text
+Experiments/Hopper-v4__seed_1/events.out.tfevents.1685109663.LAPTOP-H9864UL1.7552.0 filter=lfs diff=lfs merge=lfs -text
+Experiments/Hopper-v4__seed_2/events.out.tfevents.1685136286.LAPTOP-H9864UL1.8400.0 filter=lfs diff=lfs merge=lfs -text
+Experiments/Hopper-v4__seed_3/events.out.tfevents.1685237842.LAPTOP-H9864UL1.7248.0 filter=lfs diff=lfs merge=lfs -text

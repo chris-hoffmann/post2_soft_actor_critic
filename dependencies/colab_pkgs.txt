@@ -1,0 +1,6 @@
+dos2unix 
+libgl1-mesa-dev 
+libglfw3 
+libosmesa6-dev 	
+patchelf 
+xvfb

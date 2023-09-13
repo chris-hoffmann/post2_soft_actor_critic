@@ -1,0 +1,5 @@
+dill==0.3.6
+gym==0.25.2
+moviepy==1.0.3
+mujoco==2.2.0
+pyvirtualdisplay==3.0
